@@ -5,3 +5,10 @@ textarea{
   resize:none;
   font-family:serif;
 }
+.btn{
+  background:#2ef74d;
+  transition:all 1s;
+}
+.btn:hover{
+  background:#1bba34;
+}
