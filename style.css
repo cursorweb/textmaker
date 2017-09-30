@@ -3,4 +3,5 @@ body{
 }
 textarea{
   resize:none;
+  font-family:serif;
 }
