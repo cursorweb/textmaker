@@ -1,3 +1,6 @@
 body{
   font-family:"Comfortaa","comic sans MS", "cursive";
 }
+textarea{
+  resize:none;
+}
